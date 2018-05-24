@@ -1,2 +1,2 @@
-# face_detection
-face detection using haar classifier
+# face_and_eye_detection
+detection using haar classifier
